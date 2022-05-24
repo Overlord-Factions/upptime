@@ -16,7 +16,7 @@
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-05-24": 10
+      "2022-05-24": 15
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2022-05-24": 10
+      "2022-05-24": 15
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2022-05-24": 9
+      "2022-05-24": 15
     }
   }
 ]
