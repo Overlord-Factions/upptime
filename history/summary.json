@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server",
     "status": "down",
-    "uptime": "95.05%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "95.05%",
-    "uptimeYear": "95.05%",
+    "uptime": "84.51%",
+    "uptimeDay": "84.51%",
+    "uptimeWeek": "84.51%",
+    "uptimeMonth": "84.51%",
+    "uptimeYear": "84.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2022-05-25": 1252,
+      "2022-05-25": 1253,
       "2022-05-24": 245
     }
   },
@@ -57,7 +57,7 @@
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2022-05-25": 1252,
+      "2022-05-25": 1253,
       "2022-05-24": 245
     }
   },
@@ -78,7 +78,7 @@
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2022-05-25": 1252,
+      "2022-05-25": 1253,
       "2022-05-24": 245
     }
   }
