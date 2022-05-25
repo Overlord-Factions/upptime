@@ -1,5 +1,25 @@
 [
   {
+    "name": "Server",
+    "url": "overlordmc.net",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "server",
+    "status": "down",
+    "uptime": "95.05%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
+  },
+  {
     "name": "Server Website",
     "url": "https://overlordmc.net",
     "icon": "https://favicons.githubusercontent.com/overlordmc.net",
@@ -10,13 +30,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 81,
+    "timeDay": 65,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {
-      "2022-05-25": 45,
+      "2022-05-25": 1252,
       "2022-05-24": 245
     }
   },
@@ -31,13 +51,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 64,
-    "timeDay": 64,
-    "timeWeek": 64,
-    "timeMonth": 64,
-    "timeYear": 64,
+    "time": 78,
+    "timeDay": 85,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {
-      "2022-05-25": 45,
+      "2022-05-25": 1252,
       "2022-05-24": 245
     }
   },
@@ -52,13 +72,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "time": 93,
+    "timeDay": 116,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2022-05-25": 45,
+      "2022-05-25": 1252,
       "2022-05-24": 245
     }
   }
