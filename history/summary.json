@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 830,
+      "2022-05-26": 844,
       "2022-05-25": 188
     }
   },
@@ -31,13 +31,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 66,
-    "timeDay": 48,
-    "timeWeek": 66,
-    "timeMonth": 66,
-    "timeYear": 66,
+    "time": 67,
+    "timeDay": 53,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {
-      "2022-05-26": 830,
+      "2022-05-26": 844,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -53,13 +53,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 98,
-    "timeDay": 124,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "time": 96,
+    "timeDay": 115,
+    "timeWeek": 96,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-05-26": 830,
+      "2022-05-26": 844,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -75,15 +75,35 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 92,
-    "timeDay": 101,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 89,
+    "timeDay": 93,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {
-      "2022-05-26": 830,
+      "2022-05-26": 844,
       "2022-05-25": 1440,
       "2022-05-24": 245
+    }
+  },
+  {
+    "name": "Management Panel (Admin Only)",
+    "url": "https://panel.overlordmc.net",
+    "icon": "https://favicons.githubusercontent.com/panel.overlordmc.net",
+    "slug": "management-panel-admin-only",
+    "status": "down",
+    "uptime": "17.99%",
+    "uptimeDay": "17.99%",
+    "uptimeWeek": "17.99%",
+    "uptimeMonth": "17.99%",
+    "uptimeYear": "17.99%",
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
+    "dailyMinutesDown": {
+      "2022-05-26": 0
     }
   }
 ]
