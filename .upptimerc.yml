@@ -11,6 +11,8 @@ sites:
     url: https://overlordmc.net
   - name: "Server Map"
     url: https://map.overlordmc.net
+  - name: "Server Map Backend"
+    url: $MAP_BACKEND
   - name: "Server Stats (Admin Only)"
     url: https://stats.overlordmc.net
   - name: "Management Panel (Admin Only)"
