@@ -2,7 +2,7 @@
   --body-background-color: #19181b;
   --body-text-color: #c9d1d9;
   --card-background-color: #28272b;
-  --nav-background-color: #47464d6;
+  --nav-background-color: #47464d;
   --nav-border-bottom-color: #47464d;
   --nav-current-border-bottom-color: #1abc9c;
   --card-border-color: #30363D;
@@ -27,7 +27,7 @@
 
 body {
   margin: 0;
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell,
+  font-family: Montserrat, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.5;
   padding-bottom: 2.5rem;
