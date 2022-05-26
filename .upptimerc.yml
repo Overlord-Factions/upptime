@@ -21,16 +21,13 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  themeUrl: "none"
+  themeUrl: "https://cdn.statically.io/gh/Overlord-Factions/upptime/740b4963/assets/overlord.css"
   cname: uptime.overlordmc.net
   # baseUrl: /your-repo-name
   logoUrl: https://i.imgur.com/YeYHwjF.png
   name: OVERLORD Uptime
   introTitle: "Welcome to **OVERLORDMC** status page!"
   introMessage: This site shows current status of all services ran by OVERLORDMC, if status here is positive and you still have trouble, let us know on [discord](https://discord.gg/cR6WACk3cp).
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/Overlord-Factions/upptime/master/assets/overlord.css
   navbar:
     - title: Status
       href: /
@@ -40,5 +37,3 @@ status-website:
       href: https://discord.gg/cR6WACk3cp
 
 user-agent: KaspianDev
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
