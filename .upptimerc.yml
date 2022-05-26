@@ -21,7 +21,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  themeUrl: "https://gist.githubusercontent.com/KaspianDev/da5066b0559402e74cf79d73dc2f0996/raw/e075967941594a4f7b896cfabfd93a30e338e73a/overlord.css"
+  themeUrl: "https://uptime.overlordmc.net/overlord.css"
   # customHeadHtml: "<link href='https://raw.githubusercontent.com/Overlord-Factions/upptime/master/assets/overlord.css' type='text/css'>"
   cname: uptime.overlordmc.net
   # baseUrl: /your-repo-name
