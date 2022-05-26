@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 978,
+      "2022-05-26": 997,
       "2022-05-25": 188
     }
   },
@@ -32,12 +32,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 60,
-    "timeDay": 54,
+    "timeDay": 55,
     "timeWeek": 60,
     "timeMonth": 60,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2022-05-26": 978,
+      "2022-05-26": 997,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -53,13 +53,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 101,
-    "timeDay": 108,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 99,
+    "timeDay": 105,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {
-      "2022-05-26": 978,
+      "2022-05-26": 997,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -75,13 +75,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 94,
-    "timeDay": 96,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "time": 93,
+    "timeDay": 95,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2022-05-26": 978,
+      "2022-05-26": 997,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -92,18 +92,18 @@
     "icon": "https://favicons.githubusercontent.com/panel.overlordmc.net",
     "slug": "management-panel-admin-only",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2022-05-26": 135
+      "2022-05-26": 154
     }
   }
 ]
