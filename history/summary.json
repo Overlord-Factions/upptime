@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 976,
+      "2022-05-26": 978,
       "2022-05-25": 188
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 60,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2022-05-26": 976,
+      "2022-05-26": 978,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -54,12 +54,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 101,
-    "timeDay": 109,
+    "timeDay": 108,
     "timeWeek": 101,
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-05-26": 976,
+      "2022-05-26": 978,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -76,12 +76,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 94,
-    "timeDay": 97,
+    "timeDay": 96,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2022-05-26": 976,
+      "2022-05-26": 978,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -92,18 +92,18 @@
     "icon": "https://favicons.githubusercontent.com/panel.overlordmc.net",
     "slug": "management-panel-admin-only",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 97,
-    "timeDay": 97,
-    "timeWeek": 97,
-    "timeMonth": 97,
-    "timeYear": 97,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-05-26": 133
+      "2022-05-26": 135
     }
   }
 ]
