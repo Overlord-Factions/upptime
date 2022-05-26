@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 934,
+      "2022-05-26": 940,
       "2022-05-25": 188
     }
   },
@@ -31,13 +31,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 63,
+    "time": 62,
     "timeDay": 55,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {
-      "2022-05-26": 934,
+      "2022-05-26": 940,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -53,13 +53,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 102,
-    "timeDay": 113,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "time": 103,
+    "timeDay": 114,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-05-26": 934,
+      "2022-05-26": 940,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -75,13 +75,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 91,
-    "timeDay": 94,
-    "timeWeek": 91,
-    "timeMonth": 91,
-    "timeYear": 91,
+    "time": 94,
+    "timeDay": 97,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {
-      "2022-05-26": 934,
+      "2022-05-26": 940,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -92,18 +92,18 @@
     "icon": "https://favicons.githubusercontent.com/panel.overlordmc.net",
     "slug": "management-panel-admin-only",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 102,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2022-05-26": 91
+      "2022-05-26": 97
     }
   }
 ]
