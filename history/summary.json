@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 844,
+      "2022-05-26": 851,
       "2022-05-25": 188
     }
   },
@@ -31,13 +31,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 67,
-    "timeDay": 53,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "time": 64,
+    "timeDay": 52,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-05-26": 844,
+      "2022-05-26": 851,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -53,13 +53,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 96,
-    "timeDay": 115,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 104,
+    "timeDay": 124,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
-      "2022-05-26": 844,
+      "2022-05-26": 851,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -76,12 +76,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 89,
-    "timeDay": 93,
+    "timeDay": 92,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2022-05-26": 844,
+      "2022-05-26": 851,
       "2022-05-25": 1440,
       "2022-05-24": 245
     }
@@ -92,18 +92,18 @@
     "icon": "https://favicons.githubusercontent.com/panel.overlordmc.net",
     "slug": "management-panel-admin-only",
     "status": "down",
-    "uptime": "10.51%",
-    "uptimeDay": "10.51%",
-    "uptimeWeek": "10.51%",
-    "uptimeMonth": "10.51%",
-    "uptimeYear": "10.51%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
+    "time": 148,
+    "timeDay": 148,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 8
     }
   }
 ]
