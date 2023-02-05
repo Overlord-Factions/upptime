@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-05": 459,
+      "2023-02-05": 467,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 444,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2023-02-05": 459,
+      "2023-02-05": 467,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -443,7 +443,7 @@
     "timeMonth": 3320,
     "timeYear": 2005,
     "dailyMinutesDown": {
-      "2023-02-05": 459,
+      "2023-02-05": 467,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -680,14 +680,14 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "92.06%",
-    "uptimeDay": "53.20%",
-    "uptimeWeek": "39.38%",
-    "uptimeMonth": "33.04%",
+    "uptimeDay": "53.19%",
+    "uptimeWeek": "39.45%",
+    "uptimeMonth": "33.09%",
     "uptimeYear": "92.06%",
     "time": 578,
-    "timeDay": 565,
+    "timeDay": 569,
     "timeWeek": 611,
     "timeMonth": 654,
     "timeYear": 578,
@@ -716,7 +716,7 @@
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 765,
-      "2023-01-12": 469
+      "2023-01-12": 445
     }
   },
   {
