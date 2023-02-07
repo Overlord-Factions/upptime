@@ -1,7 +1,7 @@
 url: $MAP_BACKEND
 status: down
 code: 503
-responseTime: 60
-lastUpdated: 2023-02-06T23:18:41.120Z
+responseTime: 53
+lastUpdated: 2023-02-07T23:19:10.780Z
 startTime: Thu May 26 2022 17:17:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
