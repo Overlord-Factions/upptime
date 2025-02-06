@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 957,
+      "2025-02-06": 971,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 109,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-02-06": 957,
+      "2025-02-06": 971,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 110,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-02-06": 957,
+      "2025-02-06": 971,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 957,
+      "2025-02-06": 971,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 201,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-02-06": 932,
+      "2025-02-06": 946,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1414,
@@ -1924,17 +1924,17 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "15.82%",
-    "uptimeWeek": "14.23%",
-    "uptimeMonth": "47.27%",
-    "uptimeYear": "95.61%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "16.76%",
+    "uptimeWeek": "14.36%",
+    "uptimeMonth": "48.01%",
+    "uptimeYear": "95.67%",
     "time": 269,
-    "timeDay": 575,
-    "timeWeek": 633,
-    "timeMonth": 608,
-    "timeYear": 325,
+    "timeDay": 561,
+    "timeWeek": 631,
+    "timeMonth": 606,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-02-06": 830,
       "2025-02-05": 1294,
@@ -1953,7 +1953,7 @@
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
-      "2025-01-20": 597
+      "2025-01-20": 269
     }
   }
 ]
