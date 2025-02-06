@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 992,
+      "2025-02-06": 1004,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 109,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-02-06": 992,
+      "2025-02-06": 1005,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 110,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-02-06": 992,
+      "2025-02-06": 1005,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 992,
+      "2025-02-06": 1005,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 201,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-02-06": 967,
+      "2025-02-06": 980,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1414,
@@ -1924,17 +1924,17 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "16.78%",
-    "uptimeWeek": "14.36%",
-    "uptimeMonth": "47.97%",
-    "uptimeYear": "95.66%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "17.62%",
+    "uptimeWeek": "14.48%",
+    "uptimeMonth": "48.45%",
+    "uptimeYear": "95.70%",
     "time": 269,
-    "timeDay": 561,
-    "timeWeek": 631,
-    "timeMonth": 606,
-    "timeYear": 325,
+    "timeDay": 547,
+    "timeWeek": 628,
+    "timeMonth": 604,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-02-06": 851,
       "2025-02-05": 1294,
@@ -1953,7 +1953,7 @@
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
-      "2025-01-20": 269
+      "2025-01-20": 58
     }
   }
 ]
