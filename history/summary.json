@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-13": 1163,
+      "2025-02-13": 1169,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 111,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-02-13": 1163,
+      "2025-02-13": 1169,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 114,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-02-13": 1163,
+      "2025-02-13": 1169,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-13": 1163,
+      "2025-02-13": 1169,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 251,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-02-13": 1124,
+      "2025-02-13": 1130,
       "2025-02-12": 1421,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1924,17 +1924,17 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "13.60%",
-    "uptimeWeek": "3.03%",
-    "uptimeMonth": "60.06%",
-    "uptimeYear": "96.67%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "13.59%",
+    "uptimeWeek": "3.07%",
+    "uptimeMonth": "60.51%",
+    "uptimeYear": "96.71%",
     "time": 301,
-    "timeDay": 581,
-    "timeWeek": 509,
-    "timeMonth": 596,
-    "timeYear": 342,
+    "timeDay": 565,
+    "timeWeek": 508,
+    "timeMonth": 595,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2025-02-13": 1043,
       "2025-02-12": 1274,
@@ -1949,7 +1949,7 @@
       "2025-02-03": 1295,
       "2025-02-02": 1055,
       "2025-02-01": 1256,
-      "2025-01-31": 608
+      "2025-01-31": 410
     }
   }
 ]
