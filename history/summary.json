@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-23": 52,
+      "2025-02-24": 50,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -379,8 +380,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/overlordmc.net.ico",
     "slug": "server-website",
     "status": "down",
-    "uptime": "16.25%",
+    "uptime": "16.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 79,
-    "timeDay": 80,
-    "timeWeek": 111,
-    "timeMonth": 117,
+    "time": 80,
+    "timeDay": 101,
+    "timeWeek": 104,
+    "timeMonth": 118,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-02-23": 52,
+      "2025-02-24": 50,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -763,8 +764,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/map.overlordmc.net.ico",
     "slug": "server-map",
     "status": "down",
-    "uptime": "25.34%",
+    "uptime": "25.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 91,
-    "timeDay": 129,
-    "timeWeek": 108,
-    "timeMonth": 110,
+    "timeDay": 90,
+    "timeWeek": 110,
+    "timeMonth": 109,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-02-23": 52,
+      "2025-02-24": 50,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -1147,8 +1148,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   },
   {
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-23": 52,
+      "2025-02-24": 50,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -1531,8 +1532,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
     "status": "down",
-    "uptime": "24.39%",
-    "uptimeDay": "2.28%",
+    "uptime": "24.36%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.33%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 209,
-    "timeDay": 282,
-    "timeWeek": 183,
-    "timeMonth": 257,
-    "timeYear": 209,
+    "time": 208,
+    "timeDay": 86,
+    "timeWeek": 185,
+    "timeMonth": 256,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-02-23": 52,
+      "2025-02-24": 50,
+      "2025-02-23": 1440,
       "2025-02-22": 1407,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -1915,8 +1916,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   },
   {
@@ -1925,18 +1925,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
     "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "9.72%",
+    "uptime": "97.93%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "2.59%",
-    "uptimeMonth": "35.02%",
-    "uptimeYear": "94.58%",
+    "uptimeMonth": "31.73%",
+    "uptimeYear": "94.31%",
     "time": 304,
-    "timeDay": 381,
-    "timeWeek": 565,
+    "timeDay": 65,
+    "timeWeek": 563,
     "timeMonth": 581,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-02-23": 52,
+      "2025-02-24": 51,
+      "2025-02-23": 1440,
       "2025-02-22": 1300,
       "2025-02-21": 1338,
       "2025-02-20": 1421,
