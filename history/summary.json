@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 692,
+      "2025-02-28": 699,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 119,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-02-28": 692,
+      "2025-02-28": 699,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 113,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-02-28": 692,
+      "2025-02-28": 699,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 692,
+      "2025-02-28": 699,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 272,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-02-28": 686,
+      "2025-02-28": 693,
       "2025-02-27": 1434,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -1924,17 +1924,17 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "97.62%",
-    "uptimeDay": "27.31%",
-    "uptimeWeek": "6.23%",
-    "uptimeMonth": "21.08%",
-    "uptimeYear": "93.42%",
+    "status": "down",
+    "uptime": "97.63%",
+    "uptimeDay": "27.80%",
+    "uptimeWeek": "6.30%",
+    "uptimeMonth": "21.37%",
+    "uptimeYear": "93.45%",
     "time": 330,
-    "timeDay": 565,
-    "timeWeek": 502,
-    "timeMonth": 580,
-    "timeYear": 373,
+    "timeDay": 554,
+    "timeWeek": 497,
+    "timeMonth": 579,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2025-02-28": 521,
       "2025-02-27": 1218,
@@ -1961,7 +1961,7 @@
       "2025-02-06": 1224,
       "2025-02-05": 1294,
       "2025-02-04": 1241,
-      "2025-02-03": 838
+      "2025-02-03": 713
     }
   }
 ]
