@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-02": 947,
+      "2025-03-02": 953,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 103,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-03-02": 947,
+      "2025-03-02": 953,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 104,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-03-02": 947,
+      "2025-03-02": 953,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-02": 947,
+      "2025-03-02": 953,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 298,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-03-02": 910,
+      "2025-03-02": 916,
       "2025-03-01": 1391,
       "2025-02-28": 1418,
       "2025-02-27": 1434,
@@ -1924,17 +1924,17 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "26.03%",
-    "uptimeWeek": "12.10%",
-    "uptimeMonth": "25.93%",
-    "uptimeYear": "93.83%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "26.33%",
+    "uptimeWeek": "12.16%",
+    "uptimeMonth": "26.17%",
+    "uptimeYear": "93.85%",
     "time": 344,
-    "timeDay": 346,
-    "timeWeek": 479,
-    "timeMonth": 512,
-    "timeYear": 384,
+    "timeDay": 345,
+    "timeWeek": 476,
+    "timeMonth": 510,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-03-02": 678,
       "2025-03-01": 1089,
@@ -1960,7 +1960,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 169
+      "2025-02-06": 64
     }
   }
 ]
