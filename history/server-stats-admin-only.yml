@@ -1,7 +1,7 @@
 url: https://stats.overlordmc.net
-status: up
-code: 200
-responseTime: 305
-lastUpdated: 2025-03-03T00:01:04.014Z
+status: down
+code: 403
+responseTime: 65
+lastUpdated: 2025-03-03T01:26:41.635Z
 startTime: 2022-05-24T20:04:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
