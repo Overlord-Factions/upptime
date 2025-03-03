@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-03": 871,
+      "2025-03-03": 883,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 105,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-03-03": 871,
+      "2025-03-03": 883,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 106,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2025-03-03": 871,
+      "2025-03-03": 883,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-03": 871,
+      "2025-03-03": 883,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 302,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-03-03": 767,
+      "2025-03-03": 779,
       "2025-03-02": 1397,
       "2025-03-01": 1391,
       "2025-02-28": 1418,
@@ -1924,17 +1924,17 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "25.98%",
-    "uptimeWeek": "15.60%",
-    "uptimeMonth": "45.18%",
-    "uptimeYear": "95.43%",
+    "status": "down",
+    "uptime": "98.36%",
+    "uptimeDay": "26.79%",
+    "uptimeWeek": "15.72%",
+    "uptimeMonth": "45.51%",
+    "uptimeYear": "95.46%",
     "time": 332,
-    "timeDay": 416,
-    "timeWeek": 469,
-    "timeMonth": 496,
-    "timeYear": 386,
+    "timeDay": 408,
+    "timeWeek": 467,
+    "timeMonth": 495,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2025-03-03": 634,
       "2025-03-02": 1053,
@@ -1954,7 +1954,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
-      "2025-02-13": 497
+      "2025-02-13": 350
     }
   }
 ]
