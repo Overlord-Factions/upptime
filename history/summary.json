@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 1138,
+      "2025-03-05": 1151,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 99,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-03-05": 1138,
+      "2025-03-05": 1151,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 107,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2025-03-05": 1138,
+      "2025-03-05": 1151,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 1138,
+      "2025-03-05": 1151,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 319,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-03-05": 1127,
+      "2025-03-05": 1140,
       "2025-03-04": 1356,
       "2025-03-03": 1336,
       "2025-03-02": 1397,
@@ -1924,24 +1924,24 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "32.98%",
-    "uptimeWeek": "45.11%",
-    "uptimeMonth": "87.37%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "33.85%",
+    "uptimeWeek": "45.69%",
+    "uptimeMonth": "87.50%",
+    "uptimeYear": "98.96%",
     "time": 353,
-    "timeDay": 535,
-    "timeWeek": 472,
+    "timeDay": 529,
+    "timeWeek": 470,
     "timeMonth": 485,
-    "timeYear": 397,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2025-03-05": 761,
       "2025-03-04": 1028,
       "2025-03-03": 979,
       "2025-03-02": 1053,
       "2025-03-01": 1089,
-      "2025-02-28": 615
+      "2025-02-28": 557
     }
   }
 ]
