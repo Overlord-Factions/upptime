@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 447,
+      "2025-03-11": 454,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 127,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2025-03-11": 447,
+      "2025-03-11": 454,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 115,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-03-11": 447,
+      "2025-03-11": 455,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 448,
+      "2025-03-11": 455,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1543,16 +1543,16 @@
     "status": "down",
     "uptime": "25.13%",
     "uptimeDay": "1.53%",
-    "uptimeWeek": "2.60%",
+    "uptimeWeek": "2.53%",
     "uptimeMonth": "9.31%",
     "uptimeYear": "0.13%",
     "time": 299,
     "timeDay": 461,
-    "timeWeek": 392,
+    "timeWeek": 390,
     "timeMonth": 348,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-03-11": 448,
+      "2025-03-11": 455,
       "2025-03-10": 1418,
       "2025-03-09": 1410,
       "2025-03-08": 1406,
@@ -1924,15 +1924,15 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "25.83%",
-    "uptimeWeek": "44.72%",
-    "uptimeMonth": "87.28%",
-    "uptimeYear": "98.94%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "25.97%",
+    "uptimeWeek": "45.96%",
+    "uptimeMonth": "87.56%",
+    "uptimeYear": "98.96%",
     "time": 370,
     "timeDay": 341,
-    "timeWeek": 443,
+    "timeWeek": 442,
     "timeMonth": 463,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -1942,7 +1942,7 @@
       "2025-03-08": 783,
       "2025-03-07": 1011,
       "2025-03-06": 957,
-      "2025-03-05": 392
+      "2025-03-05": 267
     }
   }
 ]
