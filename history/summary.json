@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 275,
+      "2025-03-21": 286,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 148,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-03-21": 275,
+      "2025-03-21": 286,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 133,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-03-21": 275,
+      "2025-03-21": 286,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 275,
+      "2025-03-21": 286,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1540,17 +1540,17 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
-    "uptime": "95.93%",
-    "uptimeDay": "10.26%",
-    "uptimeWeek": "4.56%",
-    "uptimeMonth": "10.31%",
-    "uptimeYear": "88.49%",
-    "time": 341,
-    "timeDay": 437,
-    "timeWeek": 433,
-    "timeMonth": 395,
-    "timeYear": 341,
+    "status": "down",
+    "uptime": "95.96%",
+    "uptimeDay": "10.99%",
+    "uptimeWeek": "4.67%",
+    "uptimeMonth": "10.34%",
+    "uptimeYear": "88.57%",
+    "time": 340,
+    "timeDay": 424,
+    "timeWeek": 429,
+    "timeMonth": 393,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2025-03-21": 269,
       "2025-03-20": 1298,
@@ -1595,7 +1595,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 839
+      "2025-02-06": 410
     }
   },
   {
@@ -1605,7 +1605,7 @@
     "slug": "management-panel-admin-only",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "60.15%",
+    "uptimeDay": "60.89%",
     "uptimeWeek": "51.29%",
     "uptimeMonth": "88.79%",
     "uptimeYear": "99.07%",
