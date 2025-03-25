@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-24": 53,
+      "2025-03-25": 52,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -379,8 +380,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/overlordmc.net.ico",
     "slug": "server-website",
     "status": "down",
-    "uptime": "15.79%",
+    "uptime": "15.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 86,
-    "timeDay": 120,
-    "timeWeek": 183,
+    "timeDay": 87,
+    "timeWeek": 182,
     "timeMonth": 148,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-03-24": 53,
+      "2025-03-25": 52,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -763,8 +764,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/map.overlordmc.net.ico",
     "slug": "server-map",
     "status": "down",
-    "uptime": "24.63%",
+    "uptime": "24.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 94,
-    "timeDay": 125,
-    "timeWeek": 161,
-    "timeMonth": 134,
+    "timeDay": 121,
+    "timeWeek": 133,
+    "timeMonth": 131,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-03-24": 53,
+      "2025-03-25": 52,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -1147,8 +1148,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-24": 53,
+      "2025-03-25": 52,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -1531,8 +1532,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
     "status": "down",
-    "uptime": "97.21%",
+    "uptime": "97.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "4.84%",
     "uptimeMonth": "10.55%",
-    "uptimeYear": "92.09%",
-    "time": 341,
-    "timeDay": 134,
+    "uptimeYear": "91.82%",
+    "time": 340,
+    "timeDay": 119,
     "timeWeek": 402,
     "timeMonth": 394,
-    "timeYear": 341,
+    "timeYear": 340,
     "dailyMinutesDown": {
-      "2025-03-24": 53,
+      "2025-03-25": 52,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1297,
@@ -1591,18 +1592,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
     "status": "down",
-    "uptime": "99.49%",
+    "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.01%",
-    "uptimeMonth": "82.56%",
-    "uptimeYear": "98.55%",
+    "uptimeWeek": "28.21%",
+    "uptimeMonth": "79.27%",
+    "uptimeYear": "98.27%",
     "time": 396,
-    "timeDay": 124,
-    "timeWeek": 467,
+    "timeDay": 136,
+    "timeWeek": 436,
     "timeMonth": 451,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-03-24": 53,
+      "2025-03-25": 52,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 588,
