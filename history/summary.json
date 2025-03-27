@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 811,
+      "2025-03-27": 831,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 151,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-03-27": 811,
+      "2025-03-27": 831,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 142,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-03-27": 811,
+      "2025-03-27": 831,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 811,
+      "2025-03-27": 831,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1544,7 +1544,7 @@
     "uptime": "97.69%",
     "uptimeDay": "9.37%",
     "uptimeWeek": "3.86%",
-    "uptimeMonth": "21.08%",
+    "uptimeMonth": "21.04%",
     "uptimeYear": "93.42%",
     "time": 349,
     "timeDay": 504,
@@ -1552,7 +1552,7 @@
     "timeMonth": 402,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-03-27": 731,
+      "2025-03-27": 750,
       "2025-03-26": 1363,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1585,15 +1585,15 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "52.78%",
-    "uptimeWeek": "19.64%",
-    "uptimeMonth": "74.26%",
-    "uptimeYear": "97.85%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "54.10%",
+    "uptimeWeek": "19.80%",
+    "uptimeMonth": "74.84%",
+    "uptimeYear": "97.90%",
     "time": 396,
-    "timeDay": 563,
-    "timeWeek": 471,
+    "timeDay": 556,
+    "timeWeek": 470,
     "timeMonth": 459,
     "timeYear": 426,
     "dailyMinutesDown": {
@@ -1607,8 +1607,7 @@
       "2025-03-20": 624,
       "2025-03-19": 739,
       "2025-03-18": 964,
-      "2025-03-17": 1056,
-      "2025-03-16": 67
+      "2025-03-17": 869
     }
   }
 ]
