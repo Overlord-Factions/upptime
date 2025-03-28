@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-28": 519,
+      "2025-03-28": 531,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 157,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-03-28": 519,
+      "2025-03-28": 531,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 153,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-03-28": 519,
+      "2025-03-28": 531,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-28": 519,
+      "2025-03-28": 531,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -1544,7 +1544,7 @@
     "uptime": "97.76%",
     "uptimeDay": "11.94%",
     "uptimeWeek": "4.00%",
-    "uptimeMonth": "23.70%",
+    "uptimeMonth": "23.67%",
     "uptimeYear": "93.64%",
     "time": 352,
     "timeDay": 409,
@@ -1552,7 +1552,7 @@
     "timeMonth": 404,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-03-28": 427,
+      "2025-03-28": 439,
       "2025-03-27": 1297,
       "2025-03-26": 1363,
       "2025-03-25": 1440,
@@ -1584,16 +1584,16 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "61.85%",
-    "uptimeWeek": "18.97%",
-    "uptimeMonth": "75.20%",
-    "uptimeYear": "97.93%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "62.66%",
+    "uptimeWeek": "19.08%",
+    "uptimeMonth": "75.33%",
+    "uptimeYear": "97.94%",
     "time": 406,
-    "timeDay": 483,
-    "timeWeek": 496,
-    "timeMonth": 457,
+    "timeDay": 477,
+    "timeWeek": 493,
+    "timeMonth": 456,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-03-28": 195,
@@ -1607,7 +1607,7 @@
       "2025-03-20": 624,
       "2025-03-19": 739,
       "2025-03-18": 964,
-      "2025-03-17": 314
+      "2025-03-17": 255
     }
   }
 ]
