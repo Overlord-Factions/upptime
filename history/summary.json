@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 814,
+      "2025-03-29": 827,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 155,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-03-29": 814,
+      "2025-03-29": 827,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 150,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-03-29": 814,
+      "2025-03-29": 827,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 814,
+      "2025-03-29": 827,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1542,17 +1542,17 @@
     "slug": "server-stats-admin-only",
     "status": "down",
     "uptime": "97.90%",
-    "uptimeDay": "12.63%",
+    "uptimeDay": "12.35%",
     "uptimeWeek": "5.37%",
-    "uptimeMonth": "28.26%",
+    "uptimeMonth": "28.23%",
     "uptimeYear": "94.02%",
     "time": 359,
-    "timeDay": 423,
+    "timeDay": 419,
     "timeWeek": 432,
     "timeMonth": 407,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-03-29": 722,
+      "2025-03-29": 735,
       "2025-03-28": 1211,
       "2025-03-27": 1297,
       "2025-03-26": 1363,
@@ -1583,16 +1583,16 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "56.74%",
-    "uptimeWeek": "25.33%",
-    "uptimeMonth": "75.76%",
-    "uptimeYear": "97.98%",
+    "uptimeDay": "57.60%",
+    "uptimeWeek": "25.46%",
+    "uptimeMonth": "75.83%",
+    "uptimeYear": "97.99%",
     "time": 401,
-    "timeDay": 401,
-    "timeWeek": 483,
-    "timeMonth": 453,
+    "timeDay": 396,
+    "timeWeek": 481,
+    "timeMonth": 452,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2025-03-29": 335,
@@ -1606,7 +1606,7 @@
       "2025-03-21": 588,
       "2025-03-20": 624,
       "2025-03-19": 739,
-      "2025-03-18": 322
+      "2025-03-18": 293
     }
   }
 ]
