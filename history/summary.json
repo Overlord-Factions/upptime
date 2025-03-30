@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 1365,
+      "2025-03-30": 1391,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 154,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-03-30": 1365,
+      "2025-03-30": 1391,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 148,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-03-30": 1365,
+      "2025-03-30": 1391,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 1365,
+      "2025-03-30": 1391,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1544,15 +1544,15 @@
     "uptime": "98.06%",
     "uptimeDay": "14.24%",
     "uptimeWeek": "8.00%",
-    "uptimeMonth": "33.52%",
-    "uptimeYear": "94.46%",
+    "uptimeMonth": "33.46%",
+    "uptimeYear": "94.45%",
     "time": 362,
     "timeDay": 397,
     "timeWeek": 421,
     "timeMonth": 404,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-03-30": 1167,
+      "2025-03-30": 1192,
       "2025-03-29": 1280,
       "2025-03-28": 1211,
       "2025-03-27": 1297,
@@ -1581,16 +1581,16 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "56.49%",
-    "uptimeWeek": "36.74%",
-    "uptimeMonth": "76.46%",
+    "uptimeDay": "56.48%",
+    "uptimeWeek": "36.99%",
+    "uptimeMonth": "76.50%",
     "uptimeYear": "98.04%",
     "time": 403,
     "timeDay": 519,
-    "timeWeek": 480,
-    "timeMonth": 455,
+    "timeWeek": 479,
+    "timeMonth": 454,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2025-03-30": 609,
@@ -1603,7 +1603,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 588,
-      "2025-03-20": 537
+      "2025-03-20": 519
     }
   }
 ]
