@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 549,
+      "2025-03-30": 566,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 154,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-03-30": 549,
+      "2025-03-30": 566,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 148,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-03-30": 549,
+      "2025-03-30": 566,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 549,
+      "2025-03-30": 566,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1542,12 +1542,12 @@
     "slug": "server-stats-admin-only",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "16.52%",
-    "uptimeWeek": "7.25%",
+    "uptimeDay": "17.47%",
+    "uptimeWeek": "7.42%",
     "uptimeMonth": "32.26%",
     "uptimeYear": "94.35%",
     "time": 359,
-    "timeDay": 368,
+    "timeDay": 376,
     "timeWeek": 417,
     "timeMonth": 404,
     "timeYear": 359,
@@ -1582,15 +1582,15 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "53.25%",
-    "uptimeWeek": "32.48%",
-    "uptimeMonth": "76.62%",
+    "uptimeDay": "54.42%",
+    "uptimeWeek": "32.65%",
+    "uptimeMonth": "76.65%",
     "uptimeYear": "98.05%",
     "time": 396,
-    "timeDay": 480,
-    "timeWeek": 486,
+    "timeDay": 475,
+    "timeWeek": 484,
     "timeMonth": 454,
     "timeYear": 429,
     "dailyMinutesDown": {
@@ -1605,7 +1605,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 588,
       "2025-03-20": 624,
-      "2025-03-19": 233
+      "2025-03-19": 217
     }
   }
 ]
