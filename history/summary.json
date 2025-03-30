@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 1293,
+      "2025-03-30": 1299,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 154,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-03-30": 1293,
+      "2025-03-30": 1300,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 148,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-03-30": 1293,
+      "2025-03-30": 1300,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 1293,
+      "2025-03-30": 1300,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1540,16 +1540,16 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "13.92%",
-    "uptimeWeek": "7.94%",
-    "uptimeMonth": "33.55%",
-    "uptimeYear": "94.46%",
+    "uptimeDay": "14.24%",
+    "uptimeWeek": "8.00%",
+    "uptimeMonth": "33.67%",
+    "uptimeYear": "94.47%",
     "time": 362,
     "timeDay": 397,
-    "timeWeek": 424,
-    "timeMonth": 405,
+    "timeWeek": 421,
+    "timeMonth": 404,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2025-03-30": 1101,
@@ -1573,7 +1573,7 @@
       "2025-03-12": 1427,
       "2025-03-11": 1413,
       "2025-03-10": 1418,
-      "2025-03-09": 473
+      "2025-03-09": 418
     }
   },
   {
@@ -1584,11 +1584,11 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "56.55%",
-    "uptimeWeek": "36.56%",
+    "uptimeWeek": "36.62%",
     "uptimeMonth": "76.54%",
     "uptimeYear": "98.05%",
     "time": 402,
-    "timeDay": 492,
+    "timeDay": 493,
     "timeWeek": 476,
     "timeMonth": 453,
     "timeYear": 429,
