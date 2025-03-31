@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-31": 1214,
+      "2025-03-31": 1232,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 166,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-03-31": 1214,
+      "2025-03-31": 1232,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 145,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-03-31": 1214,
+      "2025-03-31": 1232,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-31": 1214,
+      "2025-03-31": 1232,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1544,7 +1544,7 @@
     "uptime": "98.52%",
     "uptimeDay": "13.37%",
     "uptimeWeek": "9.58%",
-    "uptimeMonth": "49.40%",
+    "uptimeMonth": "49.36%",
     "uptimeYear": "95.78%",
     "time": 366,
     "timeDay": 446,
@@ -1552,7 +1552,7 @@
     "timeMonth": 407,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-03-31": 1055,
+      "2025-03-31": 1073,
       "2025-03-30": 1242,
       "2025-03-29": 1280,
       "2025-03-28": 1211,
@@ -1576,15 +1576,15 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "54.15%",
-    "uptimeWeek": "43.51%",
-    "uptimeMonth": "76.09%",
+    "uptimeDay": "54.13%",
+    "uptimeWeek": "43.69%",
+    "uptimeMonth": "76.14%",
     "uptimeYear": "98.01%",
     "time": 415,
-    "timeDay": 654,
-    "timeWeek": 506,
+    "timeDay": 644,
+    "timeWeek": 504,
     "timeMonth": 461,
     "timeYear": 434,
     "dailyMinutesDown": {
@@ -1599,7 +1599,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 588,
-      "2025-03-20": 95
+      "2025-03-20": 75
     }
   }
 ]
