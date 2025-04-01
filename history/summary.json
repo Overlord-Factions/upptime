@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 692,
+      "2025-04-01": 699,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 168,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-01": 692,
+      "2025-04-01": 699,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 148,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-01": 692,
+      "2025-04-01": 700,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 692,
+      "2025-04-01": 700,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -1544,7 +1544,7 @@
     "uptime": "98.58%",
     "uptimeDay": "26.09%",
     "uptimeWeek": "12.10%",
-    "uptimeMonth": "51.43%",
+    "uptimeMonth": "51.41%",
     "uptimeYear": "95.95%",
     "time": 367,
     "timeDay": 413,
@@ -1552,7 +1552,7 @@
     "timeMonth": 407,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-04-01": 488,
+      "2025-04-01": 496,
       "2025-03-31": 1232,
       "2025-03-30": 1242,
       "2025-03-29": 1280,
@@ -1576,16 +1576,16 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "57.95%",
-    "uptimeWeek": "48.86%",
-    "uptimeMonth": "75.80%",
-    "uptimeYear": "97.98%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "57.93%",
+    "uptimeWeek": "48.93%",
+    "uptimeMonth": "75.99%",
+    "uptimeYear": "98.00%",
     "time": 406,
-    "timeDay": 563,
-    "timeWeek": 508,
-    "timeMonth": 462,
+    "timeDay": 564,
+    "timeWeek": 507,
+    "timeMonth": 459,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2025-04-01": 291,
@@ -1599,7 +1599,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 431
+      "2025-03-21": 350
     }
   }
 ]
