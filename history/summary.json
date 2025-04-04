@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 1137,
+      "2025-04-04": 1149,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 179,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2025-04-04": 1137,
+      "2025-04-04": 1149,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 155,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-04-04": 1137,
+      "2025-04-04": 1149,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 1137,
+      "2025-04-04": 1149,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1540,17 +1540,17 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "71.26%",
-    "uptimeWeek": "36.86%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "98.56%",
-    "time": 388,
-    "timeDay": 410,
-    "timeWeek": 430,
-    "timeMonth": 425,
-    "timeYear": 388,
+    "uptimeDay": "71.97%",
+    "uptimeWeek": "36.98%",
+    "uptimeMonth": "82.94%",
+    "uptimeYear": "98.58%",
+    "time": 387,
+    "timeDay": 409,
+    "timeWeek": 429,
+    "timeMonth": 424,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-04-04": 297,
       "2025-04-03": 621,
@@ -1560,7 +1560,7 @@
       "2025-03-30": 1242,
       "2025-03-29": 1280,
       "2025-03-28": 1211,
-      "2025-03-27": 265
+      "2025-03-27": 179
     }
   },
   {
@@ -1571,7 +1571,7 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "77.91%",
-    "uptimeWeek": "70.06%",
+    "uptimeWeek": "70.18%",
     "uptimeMonth": "90.83%",
     "uptimeYear": "99.24%",
     "time": 411,
