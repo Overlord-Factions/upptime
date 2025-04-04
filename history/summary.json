@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 1097,
+      "2025-04-04": 1120,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/overlordmc.net.ico",
     "slug": "server-website",
     "status": "down",
-    "uptime": "15.62%",
+    "uptime": "15.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 179,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2025-04-04": 1097,
+      "2025-04-04": 1120,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 155,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-04-04": 1097,
+      "2025-04-04": 1120,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 1097,
+      "2025-04-04": 1120,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1540,17 +1540,17 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "72.11%",
-    "uptimeWeek": "36.63%",
-    "uptimeMonth": "82.29%",
-    "uptimeYear": "98.52%",
-    "time": 386,
-    "timeDay": 393,
-    "timeWeek": 428,
-    "timeMonth": 423,
-    "timeYear": 386,
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "72.39%",
+    "uptimeWeek": "36.86%",
+    "uptimeMonth": "82.78%",
+    "uptimeYear": "98.56%",
+    "time": 387,
+    "timeDay": 401,
+    "timeWeek": 429,
+    "timeMonth": 424,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-04-04": 280,
       "2025-04-03": 621,
@@ -1560,7 +1560,7 @@
       "2025-03-30": 1242,
       "2025-03-29": 1280,
       "2025-03-28": 1211,
-      "2025-03-27": 480
+      "2025-03-27": 265
     }
   },
   {
