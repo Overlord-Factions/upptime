@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 51,
+      "2025-04-05": 70,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 191,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-04-05": 51,
+      "2025-04-05": 70,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 163,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-04-05": 51,
+      "2025-04-05": 70,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 51,
+      "2025-04-05": 70,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -1542,9 +1542,9 @@
     "slug": "server-stats-admin-only",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "76.14%",
+    "uptimeDay": "74.93%",
     "uptimeWeek": "39.20%",
-    "uptimeMonth": "83.09%",
+    "uptimeMonth": "83.05%",
     "uptimeYear": "98.59%",
     "time": 388,
     "timeDay": 407,
@@ -1552,7 +1552,7 @@
     "timeMonth": 425,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-04-05": 51,
+      "2025-04-05": 70,
       "2025-04-04": 343,
       "2025-04-03": 621,
       "2025-04-02": 524,
@@ -1569,18 +1569,19 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "78.42%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "79.61%",
     "uptimeWeek": "71.23%",
-    "uptimeMonth": "90.87%",
+    "uptimeMonth": "90.93%",
     "uptimeYear": "99.24%",
     "time": 413,
-    "timeDay": 553,
-    "timeWeek": 519,
+    "timeDay": 540,
+    "timeWeek": 518,
     "timeMonth": 472,
     "timeYear": 440,
     "dailyMinutesDown": {
+      "2025-04-05": 0,
       "2025-04-04": 311,
       "2025-04-03": 171,
       "2025-04-02": 163,
@@ -1589,7 +1590,7 @@
       "2025-03-30": 641,
       "2025-03-29": 567,
       "2025-03-28": 568,
-      "2025-03-27": 530
+      "2025-03-27": 504
     }
   }
 ]
