@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 1151,
+      "2025-04-06": 1162,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 211,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-04-06": 1151,
+      "2025-04-06": 1162,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 172,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-04-06": 1151,
+      "2025-04-06": 1162,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 1151,
+      "2025-04-06": 1162,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -1540,17 +1540,17 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "69.75%",
-    "uptimeWeek": "53.66%",
-    "uptimeMonth": "89.34%",
-    "uptimeYear": "99.11%",
-    "time": 396,
-    "timeDay": 461,
-    "timeWeek": 443,
-    "timeMonth": 427,
-    "timeYear": 396,
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "70.49%",
+    "uptimeWeek": "57.18%",
+    "uptimeMonth": "90.15%",
+    "uptimeYear": "99.18%",
+    "time": 395,
+    "timeDay": 455,
+    "timeWeek": 442,
+    "timeMonth": 426,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2025-04-06": 343,
       "2025-04-05": 579,
@@ -1558,8 +1558,7 @@
       "2025-04-03": 621,
       "2025-04-02": 524,
       "2025-04-01": 889,
-      "2025-03-31": 1232,
-      "2025-03-30": 141
+      "2025-03-31": 1018
     }
   },
   {
@@ -1575,7 +1574,7 @@
     "uptimeYear": "99.24%",
     "time": 421,
     "timeDay": 388,
-    "timeWeek": 531,
+    "timeWeek": 533,
     "timeMonth": 471,
     "timeYear": 441,
     "dailyMinutesDown": {
