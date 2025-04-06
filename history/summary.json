@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 205,
+      "2025-04-06": 226,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 211,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-04-06": 206,
+      "2025-04-06": 226,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 172,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-04-06": 206,
+      "2025-04-06": 226,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 206,
+      "2025-04-06": 226,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -1540,17 +1540,17 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "67.79%",
-    "uptimeWeek": "47.79%",
-    "uptimeMonth": "87.14%",
+    "uptimeDay": "67.78%",
+    "uptimeWeek": "47.99%",
+    "uptimeMonth": "87.20%",
     "uptimeYear": "98.93%",
-    "time": 393,
-    "timeDay": 450,
-    "timeWeek": 441,
+    "time": 392,
+    "timeDay": 443,
+    "timeWeek": 440,
     "timeMonth": 426,
-    "timeYear": 393,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2025-04-06": 40,
       "2025-04-05": 579,
@@ -1560,7 +1560,7 @@
       "2025-04-01": 889,
       "2025-03-31": 1232,
       "2025-03-30": 1242,
-      "2025-03-29": 166
+      "2025-03-29": 139
     }
   },
   {
@@ -1571,7 +1571,7 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "95.83%",
-    "uptimeWeek": "76.62%",
+    "uptimeWeek": "76.65%",
     "uptimeMonth": "90.84%",
     "uptimeYear": "99.24%",
     "time": 419,
