@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 1317,
+      "2025-04-07": 1368,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 223,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-04-07": 1317,
+      "2025-04-07": 1368,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 178,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-04-07": 1317,
+      "2025-04-07": 1368,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 1317,
+      "2025-04-07": 1368,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1540,17 +1540,17 @@
     "url": "https://stats.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.overlordmc.net.ico",
     "slug": "server-stats-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "61.71%",
-    "uptimeWeek": "63.38%",
-    "uptimeMonth": "91.57%",
-    "uptimeYear": "99.30%",
-    "time": 398,
-    "timeDay": 422,
-    "timeWeek": 441,
-    "timeMonth": 429,
-    "timeYear": 398,
+    "uptimeDay": "63.95%",
+    "uptimeWeek": "63.94%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "99.31%",
+    "time": 397,
+    "timeDay": 412,
+    "timeWeek": 440,
+    "timeMonth": 428,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-04-07": 480,
       "2025-04-06": 445,
@@ -1558,7 +1558,7 @@
       "2025-04-04": 343,
       "2025-04-03": 621,
       "2025-04-02": 524,
-      "2025-04-01": 698
+      "2025-04-01": 641
     }
   },
   {
@@ -1569,12 +1569,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "90.93%",
-    "uptimeWeek": "86.46%",
+    "uptimeWeek": "86.67%",
     "uptimeMonth": "91.14%",
     "uptimeYear": "99.26%",
     "time": 411,
     "timeDay": 416,
-    "timeWeek": 489,
+    "timeWeek": 488,
     "timeMonth": 471,
     "timeYear": 440,
     "dailyMinutesDown": {
