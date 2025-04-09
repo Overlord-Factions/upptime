@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 941,
+      "2025-04-09": 971,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 224,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-04-09": 941,
+      "2025-04-09": 971,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 192,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-04-09": 941,
+      "2025-04-09": 971,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 941,
+      "2025-04-09": 971,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1542,13 +1542,13 @@
     "slug": "server-stats-admin-only",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "74.28%",
-    "uptimeWeek": "66.97%",
+    "uptimeDay": "75.47%",
+    "uptimeWeek": "67.12%",
     "uptimeMonth": "92.29%",
     "uptimeYear": "99.36%",
     "time": 408,
-    "timeDay": 480,
-    "timeWeek": 456,
+    "timeDay": 487,
+    "timeWeek": 457,
     "timeMonth": 439,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -1567,15 +1567,15 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "94.05%",
+    "uptimeDay": "94.03%",
     "uptimeWeek": "90.10%",
-    "uptimeMonth": "91.35%",
+    "uptimeMonth": "91.40%",
     "uptimeYear": "99.28%",
     "time": 416,
-    "timeDay": 428,
-    "timeWeek": 470,
+    "timeDay": 402,
+    "timeWeek": 468,
     "timeMonth": 467,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -1591,7 +1591,7 @@
       "2025-03-31": 665,
       "2025-03-30": 641,
       "2025-03-29": 567,
-      "2025-03-28": 394
+      "2025-03-28": 373
     }
   }
 ]
