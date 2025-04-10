@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 356,
+      "2025-04-10": 402,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 201,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-04-10": 357,
+      "2025-04-10": 402,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 197,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-04-10": 357,
+      "2025-04-10": 402,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 357,
+      "2025-04-10": 402,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -1543,11 +1543,11 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "67.71%",
-    "uptimeWeek": "68.04%",
+    "uptimeWeek": "68.49%",
     "uptimeMonth": "92.26%",
     "uptimeYear": "99.35%",
     "time": 408,
-    "timeDay": 463,
+    "timeDay": 454,
     "timeWeek": 447,
     "timeMonth": 438,
     "timeYear": 408,
@@ -1568,15 +1568,15 @@
     "url": "https://panel.overlordmc.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.overlordmc.net.ico",
     "slug": "management-panel-admin-only",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "91.36%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "90.76%",
+    "uptimeMonth": "91.40%",
     "uptimeYear": "99.28%",
     "time": 417,
-    "timeDay": 392,
-    "timeWeek": 455,
+    "timeDay": 373,
+    "timeWeek": 452,
     "timeMonth": 470,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -1593,7 +1593,7 @@
       "2025-03-31": 665,
       "2025-03-30": 641,
       "2025-03-29": 567,
-      "2025-03-28": 345
+      "2025-03-28": 326
     }
   }
 ]
